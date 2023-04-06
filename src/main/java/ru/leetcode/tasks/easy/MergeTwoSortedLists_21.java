@@ -5,6 +5,7 @@ import ru.leetcode.tasks.common.ListNode;
 import java.util.ArrayList;
 import java.util.List;
 
+//https://leetcode.com/problems/merge-two-sorted-lists/
 public class MergeTwoSortedLists_21 {
     public static void main(String[] args) {
         List<Integer> l1 = List.of(1, 4, 5, 7, 9, 18, 19, 20);
